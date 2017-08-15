@@ -1,5 +1,6 @@
 # quantum-clustering-masters-thesis
-Matlab code that was used in the MSc thesis of Lior Deutsch (a link will be provided when available).
+Matlab code that was used in the MSc thesis of Lior Deutsch.
+The final thesis paper is also included as a pdf file.
 
 
 The functions: 
